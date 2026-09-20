@@ -8,5 +8,5 @@ class StorageException implements Exception {
   final String message;
 
   @override
-  String toString() => 'StorageException: ' + message;
+  String toString() => 'StorageException: $message';
 }
