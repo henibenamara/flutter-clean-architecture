@@ -2,6 +2,8 @@
 
 ![CI](https://github.com/henibenamara/flutter-clean-architecture/actions/workflows/ci.yml/badge.svg)
 
+**[Live demo](https://henibenamara.github.io/flutter-clean-architecture/)**, built and deployed by the CI pipeline on every push to `main`.
+
 A small task manager built to show how I structure Flutter apps: three layers with a strict dependency rule, BLoC for state, dependency injection in one place, errors as values, and tests at every layer. The features are deliberately simple so the architecture is easy to read.
 
 ## What it demonstrates
